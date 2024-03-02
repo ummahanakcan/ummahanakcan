@@ -147,30 +147,6 @@
                     alt="html5 logo"
                 /></a>
               </td>
-              <td align="center" height="108" width="108" >
-                <a
-                  href="https://www.markdownguide.org/"
-                  target="_blank"
-                  rel="noreferrer"
-                  hidden><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"
-                    width="58"
-                    height="58"
-                    alt="html5 logo"
-                /></a>
-              </td>
-              <td align="center" height="108" width="108" >
-                <a
-                  href="https://www.markdownguide.org/"
-                  target="_blank"
-                  rel="noreferrer"
-                  hidden><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"
-                    width="58"
-                    height="58"
-                    alt="html5 logo"
-                /></a>
-              </td>
           </tr>
     </table>
 
